@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Gap Mapping"
+  short_description: "Map claims to prior evidence and bounded novelty opportunities"
+  default_prompt: "Use $research-gap-mapping to map closest prior work, evidence, costs, and a bounded research gap."

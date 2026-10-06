@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Problem Localization"
+  short_description: "Quantify anomalies with denominators and boundary conditions"
+  default_prompt: "Use $research-problem-localization to quantify this observation and design the cheapest useful verification."

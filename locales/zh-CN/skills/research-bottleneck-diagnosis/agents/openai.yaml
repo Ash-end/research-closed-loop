@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研瓶颈归因"
+  short_description: "Distinguish mechanisms with controls and informative ablations"
+  default_prompt: "使用 $research-bottleneck-diagnosis，比较这个问题的候选原因，设计最能区分它们的低成本实验。"

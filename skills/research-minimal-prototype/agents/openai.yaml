@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Minimal Prototype"
+  short_description: "Test a research mechanism cheaply before scaling the project"
+  default_prompt: "Use $research-minimal-prototype to turn this mechanism into a small test with continue, revise, and stop criteria."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Closed Loop"
+  short_description: "Guide empirical research from observation to defensible evidence"
+  default_prompt: "Use $research-closed-loop to identify my research stage, the most informative next test, and conditions for revising or stopping."

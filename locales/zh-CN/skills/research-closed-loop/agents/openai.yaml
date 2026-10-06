@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研闭环总入口"
+  short_description: "Guide empirical research from observation to defensible evidence"
+  default_prompt: "使用 $research-closed-loop，根据我提供的现象和已有证据判断研究阶段，给出下一步验证与回退条件。"

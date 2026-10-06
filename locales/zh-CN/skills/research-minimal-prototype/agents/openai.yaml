@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研最小原型"
+  short_description: "Test a research mechanism cheaply before scaling the project"
+  default_prompt: "使用 $research-minimal-prototype，把我的方法想法变成低成本可判别测试，并给出继续、修订和停止条件。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Portfolio Management"
+  short_description: "Allocate research resources and decide when to switch or stop"
+  default_prompt: "Use $research-portfolio-management to allocate resources across my main line and backups with switch and stop conditions."

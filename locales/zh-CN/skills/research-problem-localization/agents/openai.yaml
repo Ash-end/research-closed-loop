@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研问题定位"
+  short_description: "Quantify anomalies with denominators and boundary conditions"
+  default_prompt: "使用 $research-problem-localization，把我提供的实验现象转成可量化的问题，并列出最小复核方案。"

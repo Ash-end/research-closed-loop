@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Bottleneck Diagnosis"
+  short_description: "Distinguish mechanisms with controls and informative ablations"
+  default_prompt: "Use $research-bottleneck-diagnosis to compare candidate explanations and plan a low-cost discriminating experiment."

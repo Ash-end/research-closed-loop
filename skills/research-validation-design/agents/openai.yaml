@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Validation Design"
+  short_description: "Build fair validation and audit evidence for research claims"
+  default_prompt: "Use $research-validation-design to plan fair baselines, independent evaluation, and claim-specific ablations."

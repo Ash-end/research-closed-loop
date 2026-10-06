@@ -1,0 +1,2 @@
+# Development validation only; installation and skills have no package dependency.
+PyYAML>=6.0,<7.0

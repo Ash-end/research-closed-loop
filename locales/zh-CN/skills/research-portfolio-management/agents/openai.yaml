@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研方向与风险管理"
+  short_description: "Allocate research resources and decide when to switch or stop"
+  default_prompt: "使用 $research-portfolio-management，根据我的证据、时间和资源安排主线与备选，并给出切换和停止条件。"

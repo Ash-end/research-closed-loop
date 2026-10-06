@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研文献缺口定位"
+  short_description: "Map claims to prior evidence and bounded novelty opportunities"
+  default_prompt: "使用 $research-gap-mapping，围绕我的问题梳理最接近的前作、证据与代价，并形成可核实的研究缺口。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研完整验证"
+  short_description: "Build fair validation and audit evidence for research claims"
+  default_prompt: "使用 $research-validation-design，为我的方法安排公平对比、独立评估和消融，明确每项证据能支持的主张。"
